@@ -16,6 +16,9 @@ alias rm="rm -i"
 # update your bashrc quicker
 alias ub="source ~/.bashrc"
 
+# piping behavior for xclip
+alias xclip="xclip -selection c"
+
 alias mkdir="mkdir --verbose"
 
 # Have ranger exit in your current directory
